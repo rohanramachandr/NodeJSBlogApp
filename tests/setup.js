@@ -1,3 +1,5 @@
+jest.setTimeout(30000);//30 seconds
+
 require('../models/User');
 
 
