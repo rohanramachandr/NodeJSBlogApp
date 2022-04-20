@@ -1,7 +1,7 @@
 const Keygrip = require('keygrip');
 const keys = require('../../config/keys');
 const keygrip = new Keygrip([keys.cookieKey]);
-// const id = '624f0351c7f61e5afc409798';
+
 
 module.exports = (user) => {
 
